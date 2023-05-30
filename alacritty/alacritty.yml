@@ -1,0 +1,31 @@
+import:
+  - ~/.config/alacritty/themes/material-ocean.yml
+
+window:
+  dimensions:
+    columns: 110
+    lines: 25
+
+  padding:
+    x: 5
+    y: 3
+
+  title: Alacritty
+
+font:
+  normal:
+    family: Caskaydia Cove Nerd Font
+    style: Normal
+  bold:
+    family: Caskaydia Cove Nerd Font
+    style: Bold
+  italic:
+    family: Caskaydia Cove Nerd Font
+    style: Italic
+  bold_italic:
+    family: Caskaydia Cove Nerd Font
+    style: Bold Italic
+  size: 9.5
+
+background_opacity: 0.95
+
